@@ -2,7 +2,7 @@
 Bom dia, Boa tarde ou Boa noite. Me chamo Tyrese e atualmente tenho 18 anos, em 2020 me formei no Instituto Tecnológico de Barueri (ITB) na área de Telecomunicações e atualmente estou atuando na área de Desenvolvimento de Software mais específicamente automatizando e realizando testes ao longo do ciclo de desenvolvimento. Já Automatizei em Java, Robot Framework e agora estou automatizando em Ruby. Cursando Análise e Desenvolvimento de Sistemas!
 
 <div>
-  <img aligm="center" alt"Ty-Java" height="70" width="110" src="https://i.pinimg.com/originals/ed/e3/22/ede3226675a8a42708f4259d218c2eb2.gif"> 
+  <img aligm="center" alt"Ty-Java" height="70" width="110" src="https://user-images.githubusercontent.com/83141560/153023241-25b660f8-0b87-420a-b421-1a2dfd8b32c8.png"> 
 </div>
 
 # Tecnologias 🚀
