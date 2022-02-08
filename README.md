@@ -5,7 +5,7 @@ Bom dia, Boa tarde ou Boa noite. Me chamo Tyrese e atualmente tenho 18 anos, em 
 Atualmente só tenho alguns projetos relacionados a automação no github, mas logo mais eu faço alguns de desenvolvimento. Aqui estão algumas das ferramentas nas quais eu sei fazer algo. 
 
 <div style="display: inline_block"><br>
-  <img aligm="center" alt"Ty-Java" height="70" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"> 
+  <img aligm="center" alt"Ty-Java" height="70" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"> 
   <img aligm="center" alt"Ty-Python" height="60" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
   <img aligm="center" alt"Ty-Ruby" height="60" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg">
   <img aligm="center" alt"Ty-Cucumber" height="90" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain-wordmark.svg">
