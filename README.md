@@ -2,7 +2,7 @@
 Bom dia, Boa tarde ou Boa noite. Me chamo Tyrese de Paula Nascimento, em 2020 me formei no Instituto Tecnológico de Barueri (ITB) na área de Telecomunicações e atualmente estou atuando na área de Desenvolvimento de Software mais específicamente automatizando e realizando testes ao longo do ciclo de desenvolvimento. Já Automatizei em Java, Python e Ruby desde Automação Web, Mobile e API. Cursando atualmente Análise e Desenvolvimento de Sistemas.
 
 # Tecnologias 🚀
-Atualmente só tenho alguns projetos relacionados a automação Web ou de API no github. (A ser atualizado)
+Tenho conhecimentos e já atuei em projetos com automações nas três frentes Web, API e Mobile com algumas das ferramentas a seguir! 
 
 <div style="display: inline_block"><br>
   <img aligm="center" alt"Ty-Java" height="80" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"> 
