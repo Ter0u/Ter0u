@@ -23,7 +23,10 @@ Tenho conhecimentos e já atuei em projetos com automações nas três frentes W
 <div>
   <img src="https://wifflegif.com/gifs/616802-pixelart-gamedev-gif" alt="Developer in pixel art" style="max-width: 100%;">
 </div>
-  
+
+![tumblr_nv44lndz1l1u6xnmoo1_1280](https://github.com/Ter0u/Ter0u/assets/83141560/c6b3201d-c72a-4ee1-adf9-10aaea7ade2c)
+
+
 ![snake animation](https://github.com/Ter0u/Ter0u/blob/output/github-contribution-grid-snake2.svg)
   
 </div>
