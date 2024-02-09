@@ -20,13 +20,10 @@ Tenho conhecimentos e já atuei em projetos com automações nas três frentes W
 
 <a href="https://www.linkedin.com/in/tyrese-de-paula-nascimento-892749207/" target="_blanc"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-<div>
-  <img src="https://wifflegif.com/gifs/616802-pixelart-gamedev-gif" alt="Developer in pixel art" style="max-width: 100%;">
-</div>
 
 ![tumblr_nv44lndz1l1u6xnmoo1_1280](https://github.com/Ter0u/Ter0u/assets/83141560/c6b3201d-c72a-4ee1-adf9-10aaea7ade2c)
 
 
-![snake animation](https://github.com/Ter0u/Ter0u/blob/output/github-contribution-grid-snake2.svg)
+![Snake animation](https://github.com/Ter0u/Ter0u/blob/output/github-contribution-grid-snake.svg)
   
 </div>
