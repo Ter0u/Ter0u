@@ -1,4 +1,4 @@
-# Hello World ✨
+# Hello World :wave:
 Bom dia, Boa tarde ou Boa noite. Me chamo Tyrese de Paula Nascimento, em 2020 me formei no Instituto Tecnológico de Barueri (ITB) na área de Telecomunicações e atualmente estou atuando na área de Desenvolvimento de Software mais específicamente automatizando e realizando testes ao longo do ciclo de desenvolvimento. Já Automatizei em Java, Python e Ruby desde Automação Web, Mobile e API. Cursando atualmente Análise e Desenvolvimento de Sistemas.
 
 # Tecnologias 🚀
