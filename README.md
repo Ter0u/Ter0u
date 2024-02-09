@@ -10,7 +10,7 @@ Tenho conhecimentos e já atuei em projetos com automações nas três frentes W
   <img aligm="center" alt"Ty-Ruby" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg">
   <img aligm="center" alt"Ty-Cucumber" height="100" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain-wordmark.svg">
   <img aligm="center" alt"Ty-github" height="30" width="90" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  <img aligm="center" alt"Ty-Eclipse" height="30" width="90" src="devicon-eclipse-plain-wordmark colored](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original-wordmark.svg">
+  <img aligm="center" alt"Ty-Eclipse" height="30" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original-wordmark.svg">
   
 </div>
   
